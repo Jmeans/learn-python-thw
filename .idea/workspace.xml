@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16dc67f6-0187-4aec-a9f1-b313bf63cb93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex16.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex17.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex18.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex19.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex20.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex21.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex24.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex25.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex26.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex27.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex28.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex29.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex30.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex31.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex32.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex33.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ex34.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test17.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex1.py" afterPath="$PROJECT_DIR$/ex1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex15.py" afterPath="$PROJECT_DIR$/ex15.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex5.py" afterPath="$PROJECT_DIR$/ex5.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex8.py" afterPath="$PROJECT_DIR$/ex8.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex34.py" afterPath="$PROJECT_DIR$/ex34.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learn-python-thw.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,7 +40,7 @@
       <file leaf-file-name="ex34.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ex34.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+            <state line="2" column="30" selection-start="63" selection-end="63" vertical-scroll-proportion="0.061261263" vertical-offset="0" max-vertical-offset="555">
               <folding />
             </state>
           </provider>
@@ -84,7 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/ex20.py" />
         <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/ex21.py" />
         <option value="$PROJECT_DIR$/ex24.py" />
@@ -100,6 +79,7 @@
         <option value="$PROJECT_DIR$/ex32.py" />
         <option value="$PROJECT_DIR$/ex33.py" />
         <option value="$PROJECT_DIR$/ex34.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -468,7 +448,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="444" y="32" width="1149" height="1000" extended-state="1" />
+    <frame x="444" y="32" width="1149" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -503,11 +483,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ex21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="34" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="646" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex24.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="81" selection-start="793" selection-end="793" vertical-scroll-proportion="0.0" vertical-offset="6" max-vertical-offset="629" />
@@ -592,9 +567,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="19" selection-start="29" selection-end="29" vertical-scroll-proportion="0.030630631" vertical-offset="0" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ex34.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="30" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+        <state line="2" column="30" selection-start="63" selection-end="63" vertical-scroll-proportion="0.061261263" vertical-offset="0" max-vertical-offset="555">
           <folding />
         </state>
       </provider>
