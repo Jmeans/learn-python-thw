@@ -77,5 +77,7 @@ harry = Halibut()
 
 print frank.pet.name
 
-
-
+print mary.pet.name
+print frank.salary
+print crouse
+print Halibut()
